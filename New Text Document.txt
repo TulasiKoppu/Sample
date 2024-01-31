@@ -1,2 +1,7 @@
 first sample file
+<<<<<<< HEAD
 second line
+=======
+This is first line
+This is second line
+>>>>>>> ff43f0bbd4e5be7b687db4f91e61a1df40184e4a
